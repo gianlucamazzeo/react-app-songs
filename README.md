@@ -1,3 +1,8 @@
+React flow components
+
+![alt text](https://github.com/gianlucamazzeo/react-app-youtube-simple/react-app-songs/blob/master/redux-flow.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
