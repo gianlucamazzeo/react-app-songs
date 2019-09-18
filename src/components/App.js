@@ -1,7 +1,7 @@
 import React from 'react';
 import SongList from './SongList';
 
-const App = () => {   ////  creato come componente funzionale
+const App = () => {   
     return (
         <div className="ui container grid">
           <div className="ui row">
