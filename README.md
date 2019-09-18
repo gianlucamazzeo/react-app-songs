@@ -1,3 +1,7 @@
+Mockup
+![alt text](https://github.com/gianlucamazzeo/react-app-songs/blob/master/design_component.png)
+
+
 React flow components
 
 ![alt text](https://github.com/gianlucamazzeo/react-app-songs/blob/master/redux-flow.png)
